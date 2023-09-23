@@ -26,9 +26,9 @@
 
 # 📖 Hello Rails Frontend<a id="about-project"></a>
 
-**Hello Rails Frontend** is a React app that uses a rails based API to show information.
+**Hello Rails Frontend** is a React app that uses a rails-based API to show information.
 
-Link to the front end [here](https://github.com/lordksix/hello-rails-back-end).
+Link to the back end [here](https://github.com/lordksix/hello-rails-back-end).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
