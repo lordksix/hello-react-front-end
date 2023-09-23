@@ -1,70 +1,158 @@
-# Getting Started with Create React App
+<a id="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center"><b>Hello Rails Frontend</b></h3>
 
-## Available Scripts
+# 📗 Table of Contents
 
-In the project directory, you can run:
+- [📗 Table of Contents](#table-of-contents)
+- [📖 Hello Rails Frontend](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
 
-### `npm start`
+  - [💻 Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+  - [👥 Authors](#Authors)
+  - [🔭 Future Features](#future-features)
+  - [🤝 Contributing](#contributing)
+  - [⭐️ Show your support](#️support)
+  - [🙏 Acknowledgments](#acknowledgements)
+  - [❓ FAQ](#faq)
+  - [📝 License](#license)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# 📖 Hello Rails Frontend<a id="about-project"></a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Hello Rails Frontend** is a React app that uses a rails based API to show information.
 
-### `npm test`
+Link to the front end [here](https://github.com/lordksix/hello-rails-back-end).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### `npm run build`
+## 🛠 Built With <a id="built-with"></a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Tech Stack <a id="tech-stack"></a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<details>
+    <summary>Client</summary>
+    <ul>
+        <li><a href="https://www.w3.org/TR/2011/WD-html5-20110405/">HTML5</a></li>
+        <li><a href="https://www.w3.org/Style/CSS/specs.en.html">CSS</a></li>
+        <li><a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">JavaScript</a></li>
+        <li><a href="https://react.dev/">React</a></li>
+    </ul>
+</details>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### Key Features <a id="key-features"></a>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Gitflow**
+- **Linters implemented**
+- **React, Routes and Redux implemented**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 💻 Getting Started <a id="getting-started"></a>
 
-## Learn More
+### Prerequisites
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+In order to run this project you need:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- To clone or fork this repo
+- Node installed
+- NPM or YARN installed
 
-### Code Splitting
+### Setup
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Clone this repository to your desired folder:
 
-### Analyzing the Bundle Size
+For example, using Ubuntu:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```sh
+  cd my-desired-folder
+  git clone https://github.com/lordksix/hello-react-front-end.git
+```
 
-### Making a Progressive Web App
+For more information on how to clone or fork a repository:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository">How to clone a repo</a>
+- <a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo">How to fork a repo</a>
 
-### Advanced Configuration
+### Install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+To install dependencies, the following command must be run in the terminal:
 
-### Deployment
+```sh
+  cd hello-react-front-end
+  npm install
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### Usage
 
-### `npm run build` fails to minify
+In the project directory, run:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```sh
+  npm run start
+```
+
+### Run tests
+
+No test implemented.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Authors <a id="Authors"></a>
+
+👤 **lordksix**
+
+- GitHub: [@lordksix](https://github.com/lordksix)
+- LinkedIn: [@wladpasquel](https://www.linkedin.com/in/wladpasquel/)
+- Medium: [@wladimir.pasquel](https://medium.com/@wladimir.pasquel)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a id="future-features"></a>
+
+Future changes:
+
+- None
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a id="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a id="️support"></a>
+
+If you like this project, I encourage you to clone, fork and contribute. Our community and knowledge grows with each engagement.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a id="acknowledgements"></a>
+
+We would like to thank Microverse for the idea for this project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ❓ FAQ <a id="faq"></a>
+
+- **Do I need a IDE or a special text editor to make changes?**
+
+  - No, you don't. You can use NotePad to make changes.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a id="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
